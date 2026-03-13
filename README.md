@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Smart Legal Case Platform
 
-# Run and deploy your AI Studio app
+Smart Legal Case Platform is a web-based application developed to help lawyers manage legal cases, client records and legal information efficiently through a structured digital platform.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Y8cUI3T7H3u1k4jVSY2WL0lv8xYEZS3W
+- Lawyer dashboard for case management
+- Client information tracking
+- Organized legal case records
+- User-friendly interface
+- Digital case management system
 
-## Run Locally
+## Technologies Used
 
-**Prerequisites:**  Node.js
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Bootstrap
 
+## Purpose of the Project
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The main objective of this project is to provide a digital solution for lawyers to manage case information, client data and legal records efficiently instead of traditional manual methods.
+
+## Future Improvements
+
+- Secure login authentication
+- Database integration
+- Case status tracking
+- Document upload system
+
